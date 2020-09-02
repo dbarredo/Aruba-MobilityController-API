@@ -8,9 +8,9 @@ Python Script go pull information in the Aruba Mobility Controller and Mobility 
 I already tested it against Mobility Controller running firmware version  6.4.3.9 and Mobility Master with Cluster running version 8.5.0.10
 
 
-API Documentation for reference
+Aruba API Documentation for reference:
 
--https://<device_ip:4343/api
+- https://<device_ip:4343/api
 
 
 
