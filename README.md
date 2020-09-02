@@ -10,7 +10,7 @@ I already tested it against Mobility Controller running firmware version  6.4.3.
 
 Aruba API Documentation for reference:
 
-- https://<device_ip:4343/api
+- https://<device_ip>:4343/api
 
 
 
