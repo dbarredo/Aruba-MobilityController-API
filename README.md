@@ -13,12 +13,14 @@ API Documentation for reference:
 [Aruba Controller API Documentation](https://<device ip>:4343/api)
 
 
-# show_zone&ssid.py
+# show_ssid.py
 
 Prerequisites: 
 - pip3 install requests 
 - pip3 install urllib3 
 - pip3 install stdiomask
+- pip3 install datetime
+
 
 
 
